@@ -1,0 +1,7 @@
+R:\PROGRAMACION CONSOLA PRACTICA\Practicas en la casa de Emi\ElmundoAnimal\HerenciasColeccionesInterfaz\obj\Debug\HerenciasColeccionesInterfaz.csproj.AssemblyReference.cache
+R:\PROGRAMACION CONSOLA PRACTICA\Practicas en la casa de Emi\ElmundoAnimal\HerenciasColeccionesInterfaz\obj\Debug\HerenciasColeccionesInterfaz.csproj.CoreCompileInputs.cache
+R:\PROGRAMACION CONSOLA PRACTICA\Practicas en la casa de Emi\ElmundoAnimal\HerenciasColeccionesInterfaz\bin\Debug\HerenciasColeccionesInterfaz.exe.config
+R:\PROGRAMACION CONSOLA PRACTICA\Practicas en la casa de Emi\ElmundoAnimal\HerenciasColeccionesInterfaz\bin\Debug\HerenciasColeccionesInterfaz.exe
+R:\PROGRAMACION CONSOLA PRACTICA\Practicas en la casa de Emi\ElmundoAnimal\HerenciasColeccionesInterfaz\bin\Debug\HerenciasColeccionesInterfaz.pdb
+R:\PROGRAMACION CONSOLA PRACTICA\Practicas en la casa de Emi\ElmundoAnimal\HerenciasColeccionesInterfaz\obj\Debug\HerenciasColeccionesInterfaz.exe
+R:\PROGRAMACION CONSOLA PRACTICA\Practicas en la casa de Emi\ElmundoAnimal\HerenciasColeccionesInterfaz\obj\Debug\HerenciasColeccionesInterfaz.pdb
